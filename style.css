@@ -1,0 +1,32 @@
+h1 {
+  color: #587BA8;
+	font-size: 30px;
+	font-family: Century Gothic;
+	font-weight: 700;
+	text-decoration: underline;
+}
+
+body {
+  color: black;
+  background-color: #D3DFF0; 
+  background-image: url(https://img00.deviantart.net/e5e1/i/2018/295/a/8/amanece_ourense_by_gervarela-dcq3me3.jpg);
+	font-size: 17px;
+	font-family: Helvetica;
+	text-align: center;
+}
+
+div {
+	background-color : #E6EAED;
+	margin: 40px auto;
+	padding: 20px;
+	width: 500px;
+	border: 2px solid #0F695D;
+	border-radius: 10px;
+	box-shadow: 0px 0px 20px grey
+}
+a {
+  color: #587BA8;
+}
+a:hover {
+	color: #A88558;
+}
